@@ -23,7 +23,7 @@
 **Passionate about creating scalable web applications and delivering exceptional user experiences.**  
 *With expertise spanning the entire development stack, I bring ideas to life through clean code and innovative solutions.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Giovanni-Labaro-phoenix1201/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-labaro-6a789636b/)
 
 </div>
 
@@ -376,8 +376,7 @@
 
 ### 📬 Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Giovanni-Labaro-phoenix1201/)
-[![Location](https://img.shields.io/badge/Location-Italy%2C%20San Giuseppe Jato-red?style=for-the-badge&logo=location&logoColor=white)](https://www.google.com/maps/place/Italy,+San Giuseppe Jato)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanni-labaro-6a789636b/)
 
 </div>
 
