@@ -3,10 +3,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00D4AA&size=32&center=true&vCenter=true&width=1000&height=80&lines=Senior+Full+Stack+Developer;Italy+San Giuseppe Jato+Based;Full+Stack+Engineer;Open+Source+Contributor" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="400" alt="Developer GIF"/>
 </div>
 
@@ -14,9 +10,9 @@
   
 # 👋 Hello, I'm Giovanni Labaro
 
-### 🚀 Senior Full Stack Developer | Italy, San Giuseppe Jato 🗾
+### 🚀 Senior Full Stack Engineer | San Giuseppe Jato, Italy 🗾
 
-<img src="https://img.shields.io/badge/Location-Italy%2C%20San Giuseppe Jato-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+<img src="https://img.shields.io/badge/Location-San Giuseppe Jato%2C%20Italy-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=for-the-badge&logo=status&logoColor=white" alt="Status" />
 <img src="https://img.shields.io/badge/Experience-10%2B%20Years-orange?style=for-the-badge&logo=experience&logoColor=white" alt="Experience" />
 
