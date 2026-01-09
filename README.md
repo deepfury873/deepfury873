@@ -10,7 +10,7 @@
   
 # 👋 Hello, I'm Giovanni Labaro
 
-### 🚀 Senior Full Stack Engineer | San Giuseppe Jato, Italy 🗾
+### 🚀 Senior Full Stack Engineer | San Giuseppe Jato, Italy 👢🇮🇹
 
 <img src="https://img.shields.io/badge/Location-San Giuseppe Jato%2C%20Italy-blue?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
 <img src="https://img.shields.io/badge/Status-Available%20for%20Work-green?style=for-the-badge&logo=status&logoColor=white" alt="Status" />
